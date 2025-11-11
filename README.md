@@ -1,4 +1,4 @@
-<!-- 🌌 CYBER KITTY NEON THEME -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" alt="Cyber Neon Cat Banner"/>
 </p>
@@ -11,7 +11,7 @@
 
 ## 🖤 About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+Neon+Cyber+Cat+Coder;⚡+Lua,+HTML,+JS;💖+Anime+&+Cyber+Vibes;🌌+Building+Roblox+tools+&+Neon+Web+UI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=🐱+Neon+Cyber+Cat+Coder;⚡+Lua,+HTML,+JS;🌌+Building+Roblox+tools+&+Neon+Web+UI"/>
 </div>
 
 <div align="center">
